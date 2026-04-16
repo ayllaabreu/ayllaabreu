@@ -1,6 +1,6 @@
 # Olá, eu sou a Aylla Abreu 👋
 
-> "Em transição de carreira para QA, uno minha experiência em Compras — onde o rigor com processos e o olhar atento aos detalhes são vitais — ao aprendizado técnico para garantir a qualidade de produtos digitais."
+> "Em transição de carreira para QA, combino minha vivência na área de Compras, onde a atenção aos detalhes e a rigorosidade nos processos são essenciais, com a formação técnica para assegurar a qualidade de produtos digitais."
 
 ---
 
