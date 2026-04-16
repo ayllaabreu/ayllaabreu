@@ -4,17 +4,17 @@
 
 ---
 
-### 🎯 Projetos em Destaque
-Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento:
-
-* 🚀 [**QA Portfolio - SwagLabs**](seu-link-aqui): Planejamento completo de testes, User Stories e Mapas Mentais.
-
----
-
 ### 🌱 Atualmente aprendendo...
 Estou focada em construir uma base técnica sólida através de cursos e projetos práticos:
 
 * **QA Fundamentals:** Metodologias Ágeis (Scrum), escrita de Casos de Teste, BDD (Gherkin) e gestão de defeitos com Jira e Xray.
+
+---
+
+### 🎯 Projetos em Destaque
+Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento:
+
+* 🚀 [**QA Portfolio - SwagLabs**](seu-link-aqui): Planejamento completo de testes, User Stories e Mapas Mentais.
 
 ---
 
