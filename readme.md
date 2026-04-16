@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Aylla%20Abreu&fontSize=60&fontAlignY=40&fontAlign=center&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&text=Aylla%20Abreu&fontSize=60&fontAlignY=35&animation=twinkling&theme=dark" />
 </p>
 
 # Olá, eu sou Aylla Abreu 👋
