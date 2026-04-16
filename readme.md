@@ -1,4 +1,4 @@
-# Olá, eu sou a Aylla Abreu 👋
+# Olá, eu sou Aylla Abreu 👋
 
 > "Em transição de carreira para QA, combino minha vivência na área de Compras, onde a atenção aos detalhes e a rigorosidade nos processos são essenciais, com a formação técnica para assegurar a qualidade de produtos digitais."
 
