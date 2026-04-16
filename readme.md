@@ -7,7 +7,8 @@
 ### 🌱 Atualmente aprendendo...
 Estou focada em construir uma base técnica sólida através de cursos e projetos práticos:
 
-* **QA Fundamentals:** Metodologias Ágeis (Scrum), escrita de Casos de Teste, BDD (Gherkin) e gestão de defeitos com Jira e Xray.
+* **Fundamentos de QA:** Metodologias Ágeis (Scrum), escrita de Casos de Teste, BDD (Gherkin) e gestão de defeitos com Jira e Xray.
+* **GitHub e Documentação:** Aprendendo na prática a organizar repositórios, versionamento básico e documentação técnica (Markdown) para portfólios de QA.
 
 ---
 
