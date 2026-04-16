@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=ffffff&text=Aylla%20Abreu&fontSize=60&fontAlignY=35&animation=twinkling&theme=dark" />
 </p>
 
-# Olá, eu sou Aylla Abreu 👋
+# Olá, eu sou Aylla 👋
 
 > "Em transição de carreira para QA, combino minha vivência na área de Compras, onde a atenção aos detalhes e a rigorosidade nos processos são essenciais, com a formação técnica para assegurar a qualidade de produtos digitais."
 
