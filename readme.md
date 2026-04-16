@@ -11,6 +11,13 @@ Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento
 
 ---
 
+### 🌱 Atualmente aprendendo...
+Estou focada em construir uma base técnica sólida através de cursos e projetos práticos:
+
+* **QA Fundamentals:** Metodologias Ágeis (Scrum), escrita de Casos de Teste, BDD (Gherkin) e gestão de defeitos com Jira e Xray.
+
+---
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aylla-abreu&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub" />
 </p>
