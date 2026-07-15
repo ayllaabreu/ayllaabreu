@@ -18,9 +18,3 @@ Estou construindo minha base técnica com foco em:
 Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento:
 
 * [**Projeto SwagLabs**](https://github.com/ayllaabreu/PROJETO-SWAGLABS): Planejamento completo de testes, User Stories e Mapas Mentais.
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aylla-abreu&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="Estatísticas do GitHub" />
-</p>
