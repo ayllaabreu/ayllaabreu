@@ -5,9 +5,11 @@
 ---
 
 ### 🌱 Atualmente aprendendo...
-Estou focada em construir uma base técnica sólida através de cursos e projetos práticos:
+Estou construindo minha base técnica com foco em:
 
-* **Fundamentos de QA:** Metodologias Ágeis (Scrum), escrita de Casos de Teste, BDD (Gherkin) e gestão de defeitos com Jira e Xray.
+* **Conceitos de Testes de Software** — fundamentos, tipos de teste e ciclo de vida de bugs
+* **BDD com Gherkin** — escrita de cenários de teste em linguagem natural
+* **Lógica de Programação** — base técnica para evoluir para automação futuramente
 * **GitHub e Documentação:** Aprendendo na prática a organizar repositórios, versionamento básico e documentação técnica (Markdown) para portfólios de QA.
 
 ---
