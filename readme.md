@@ -14,6 +14,18 @@ Estou construindo minha base técnica com foco em:
 
 ---
 
+## 🛠️ O que já sei fazer
+
+![Casos de Teste](https://img.shields.io/badge/Casos%20de%20Teste-1a3a4a?style=for-the-badge)
+![Gherkin/BDD](https://img.shields.io/badge/Gherkin%2FBDD-1a3a4a?style=for-the-badge)
+![User Stories](https://img.shields.io/badge/User%20Stories-1a3a4a?style=for-the-badge)
+![Mapa Mental](https://img.shields.io/badge/Mapa%20Mental-1a3a4a?style=for-the-badge)
+![Ciclo de Vida do Bug](https://img.shields.io/badge/Ciclo%20de%20Vida%20do%20Bug-1a3a4a?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-1a3a4a?style=for-the-badge&logo=git&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-1a3a4a?style=for-the-badge&logo=markdown&logoColor=white)
+
+---
+
 ### 🎯 Projetos em Destaque
 Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento:
 
