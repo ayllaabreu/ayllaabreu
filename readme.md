@@ -17,7 +17,7 @@ Estou construindo minha base técnica com foco em:
 ### 🎯 Projetos em Destaque
 Aqui você encontra meus principais artefatos de QA e estudos de desenvolvimento:
 
-* [**QA Portfolio - SwagLabs**](https://github.com/ayllaabreu/PROJETO-DIO-QA): Planejamento completo de testes, User Stories e Mapas Mentais.
+* [**Projeto SwagLabs**](https://github.com/ayllaabreu/PROJETO-SWAGLABS): Planejamento completo de testes, User Stories e Mapas Mentais.
 
 ---
 
